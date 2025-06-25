@@ -4,10 +4,9 @@
   keywords: EME International documentation, Prometheus Sypec docs, Echo SaaS, travel consultancy platform, import export Belgium Lebanon China, ESG reporting guide, accessible tourism, AI code quality platform
   description: Central documentation hub for E.M.E International SARL covering travel services, consultancy, trading operations, and in‑house SaaS products – Prometheus Sypec & Echo. Includes FAQs, how‑to guides, API references, and ESG disclosures.
 -->
+![logo](https://github.com/user-attachments/assets/30d35f55-1e7e-4d0b-b58a-16b145eb16fb)
 
-<p align="center">
-  <img src="../assets/logo.jpeg" alt="E.M.E International SARL Logo" width="200"/>
-</p>
+
 
 # 📚 E.M.E International Documentation Repository
 
